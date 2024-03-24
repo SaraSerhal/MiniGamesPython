@@ -12,7 +12,5 @@ J'ai développé le jeu du Pendu en Python en utilisant des structures de contr�
 
 Le jeu du Morpion est un jeu classique où deux joueurs s'affrontent sur une grille de 3x3. Chaque joueur place à tour de rôle son symbole (X ou O) sur la grille dans le but de former une ligne, une colonne ou une diagonale de son symbole. Le premier joueur à réussir cet objectif remporte la partie.
 
-J'ai également développé le jeu du Morpion en Python pendant ma première année d'université.
-
 Ces projets ont été une excellente occasion d'appliquer les concepts de programmation appris en cours et de développer des jeux interactifs simples mais amusants en Python.
 
